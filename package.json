@@ -17,7 +17,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "@prisma/client": "4.x"
+    "@prisma/client": "4.16.2"
   },
   "peerDependencies": {
     "@prisma/client": "4.x"
